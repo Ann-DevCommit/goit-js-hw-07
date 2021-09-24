@@ -1,0 +1,23 @@
+ul {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.image-list {
+  display: flex;
+  justify-content: center;
+}
+
+.image-item {
+  max-width: 300px;
+  max-height: 200px;
+  overflow: hidden;
+  margin: 0 10px;
+}
+
+.image-prop {
+  max-width: 400px;
+}
